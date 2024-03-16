@@ -25,11 +25,12 @@ This is my first portfolio
 
 
 
-![image](https://github.com/AyeshaAshfaq22/Portfolio/assets/158320332/357508e2-b3e7-4733-932a-d7d2bc25ac89)
+![image](https://github.com/AyeshaAshfaq22/Portfolio/assets/158320332/ba5bde7e-d788-4049-a184-f73fb3d85fed)
 
-![image](https://github.com/AyeshaAshfaq22/Portfolio/assets/158320332/955f3e74-7097-4c58-91aa-22b5539ef483)
+![image](https://github.com/AyeshaAshfaq22/Portfolio/assets/158320332/a1857fb0-6e8c-467e-a025-bb3e44256783)
 
-![image](https://github.com/AyeshaAshfaq22/Portfolio/assets/158320332/3516b994-05a2-42d4-bf25-4560f53ca084)
+![image](https://github.com/AyeshaAshfaq22/Portfolio/assets/158320332/f76cae2d-342e-4ce1-9104-300c29582215)
+
 
 
 
